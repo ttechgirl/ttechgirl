@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mustapha Ayisat @ttechgirl
-- 👀 I’m interested in dotnet|c#|html|javascript|css
+- 👀 I’m interested in dotnet|c#|devops
 - 🌱 I’m currently working with dotnet/c#
 - 💞️ I’m looking to collaborate on any project as a c#/dotnet developer
 - 📫 How to reach me ... abiodunayisat2@gmail.com
