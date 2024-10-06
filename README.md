@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mustapha Ayisat @ttechgirl
-- 👀 I’m interested in dotnet|c#|devops
-- 🌱 I’m currently working with dotnet/c#
-- 💞️ I’m looking to collaborate on any project as a c#/dotnet developer
+- 👀 I’m interested in adding more knowledge and providing software solutions
+- 🌱 I’m currently working with dotnet/c#/mvc razor/js
+- 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me ... abiodunayisat2@gmail.com
 
 <!---
